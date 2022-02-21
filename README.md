@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DhanehaRangani?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DhanehaRangani)
 
-## I'm an Software Undergraduate and an Aiesecer !!
+## I'm an Software Undergraduate !!
 
 
 - 🌱 I’m currently learning everything 🤣
