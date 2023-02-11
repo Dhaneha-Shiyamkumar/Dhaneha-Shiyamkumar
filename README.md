@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw, write and travel !!
 
 
@@ -33,7 +33,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Threats and Consequences of trending 5 different looks](https://fossnsbm.org/threats-and-consequences-of-trending-5differentlooks/)
